@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ClientMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\InventoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NutritionPlanView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PersonalData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\GymView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisteredViews\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisteredViews\NutritionPlanViewLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisteredViews\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisteredViews\TrainingViewLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisteredViews\UpdateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Registered\ALLINCLUSIVELog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Registered\AMATUERLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Registered\BASICLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Registered\ServicesLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Unregistered\AllInclusive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Unregistered\Amatuer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Services\Unregistered\Basic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TrainingView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
